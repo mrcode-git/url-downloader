@@ -12,4 +12,4 @@
 ### run
 `python dl.py`
 
-<p>thank you for watching❤<p>
+<center><p>thank you for watching❤<p></center>
