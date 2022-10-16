@@ -1,7 +1,15 @@
-<h1 style="color: #f66;">url-downloader</h1>
+<h1>url-downloader</h1>
 
 ## supported Terminal's
-<ol>
-  <li color="green">CMD</li>
-  <li color='green'>Windows Powershell</li>
-</ol>
+<li>CMD</li>
+<li>Windows Powershell</li>
+<br>
+<hr>
+## installation 
+<li>`git clone https://github.com/mrcode-git/url-downloader`</li>
+
+
+### run
+`python dl.py`
+
+<p>thank you for watching❤<p>
