@@ -6,7 +6,9 @@
 <br>
 <hr>
 ## installation 
-<li>`git clone https://github.com/mrcode-git/url-downloader`</li>
+<li>
+`git clone https://github.com/mrcode-git/url-downloader`
+</li>
 
 
 ### run
