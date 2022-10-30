@@ -6,10 +6,10 @@
 <br>
 <hr>
 ## installation 
+<br>
 `git clone https://github.com/mrcode-git/url-downloader`
-
-
+<hr>
 ### run
 `python dl.py`
-
+<br>
 <center><p>thank you for watching❤<p></center>
